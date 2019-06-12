@@ -15,6 +15,7 @@
     "electron": "^5.0.2"
   },
   "devDependencies": {
-    "electron-packager": "^13.1.1"
+    "electron-packager": "^13.1.1",
+    "serialport": "^7.1.5"
   }
 }

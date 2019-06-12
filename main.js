@@ -1,4 +1,5 @@
 const electron = require('electron');
+const serialPort = require('serialport');
 const url = require('url');
 const path = require('path');
 
